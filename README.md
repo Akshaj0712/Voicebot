@@ -2,7 +2,7 @@
 
 ## Indic Parler TTS
 Supports 18 Indian Languages. Prompt + Decription (speaker + speaker's prosody). <br>
-Best results: Description "... clear sound, close sound, expressive, with high and pitch low intonation"<br>
+**Best results:** Description "... clear sound, close sound, expressive, with high and pitch low intonation". Fairly close to benchmark* in terms of intonation and variability of speed.<br>
 Supports: pauses (prompt includes "--")<br>
 Does not support: non speech sounds or mid-speech affliction (e.g. prompt includes "[laughs]", "[shout]")<br>
 Generation Time: varied between 510s to 740s for 5 lines (40 words). <br>
