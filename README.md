@@ -7,11 +7,13 @@ Supports: pauses (prompt includes "--")<br>
 Does not support: non speech sounds or mid-speech affliction (e.g. prompt includes "[laughs]", "[shout]")<br>
 Generation Time: varied between 510s to 740s for 5 lines (40 words). <br>
 
+Note: F5 TTS by AI4bharat is their latest adaptive TTS (not tested by me yet).
+
 ## BharatGen
 Released 19 models recently. Here is the break up. (source: https://www.linkedin.com/posts/bharatgen_aikosh-activity-7325733146061103104-Shqs/) <br>
 5 Voicebox TTS <br>
 (no links found) <br>
-5 Speaker conditioned TTS pflow (Hindi model downloadable, others on request) <br>
+5 Speaker conditioned TTS pflow (can perform infilling) (Hindi model downloadable, others on request) <br>
 https://aikosh.indiaai.gov.in/home/models/details/spk_cond_tts_pflow_marathi.html <br>
 9 A2TTS (speaker adaptive TTS) (Hindi model downloadable, others on request) <br>
 https://aikosh.indiaai.gov.in/web/models/details/tts_with_spk_adapt_bengali.html <br>
