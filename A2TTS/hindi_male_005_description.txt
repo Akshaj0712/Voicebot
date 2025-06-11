@@ -1,0 +1,9 @@
+Language       : hindi
+Gender         : male
+Checkpoint     : ./logs/hindi.pt
+Audio Reference: ./audio_samples/hindi_abhi_voice_vanilla.wav
+Input Text     : ग्राहक सेवा में--- कॉल करने के लिए धन्यवाद। मैं आज आपकी कैसे सहायता कर सकता हूँ? मैं आपकी समस्या को समझता हूँ, और आपकी मदद के लिए यहाँ हूँ। कृपया लाइन पर बने रहें, मैं आपके लिए जानकारी देख रहा हूँ। समस्या को संबंधित विभाग को भेज दिया गया है। हुई असुविधा के लिए हम क्षमा चाहते हैं।
+Timesteps      : 10
+Temperature    : 1.5
+Length Scale   : 1.1
+Output Path    : ./output_wavs\hindi_male_005.wav
