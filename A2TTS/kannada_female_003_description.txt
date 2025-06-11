@@ -1,0 +1,9 @@
+Language       : kannada
+Gender         : female
+Checkpoint     : ./logs/kannada.pt
+Audio Reference: ./audio_samples/kannada_host_001.wav
+Input Text     : ಗ್ರಾಹಕ ಸೇವೆಗೆ ಕರೆ ಮಾಡಿದಕ್ಕೆ ಧನ್ಯವಾದಗಳು. ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು? ನಿಮ್ಮ ಚಿಂತೆಯನ್ನು ನಾನು ಅರ್ಥಮಾಡಿಕೊಂಡಿದ್ದೇನೆ, ನಾನು ಸಹಾಯ ಮಾಡಲು ಇಲ್ಲಿದ್ದೇನೆ. ದಯವಿಟ್ಟು ಸ್ವಲ್ಪ ನಿರೀಕ್ಷಿಸಿ, ನಾನು ಆ ಮಾಹಿತಿಯನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿದ್ದೇನೆ. ನಿಮ್ಮ ಸಮಸ್ಯೆಯನ್ನು ಸಂಬಂಧಿತ ವಿಭಾಗಕ್ಕೆ ಕಳುಹಿಸಲಾಗಿದೆ. ಉಂಟಾದ ತೊಂದರೆಗಾಗಿ ವಿಷಾದಿಸುತ್ತೇವೆ.
+Timesteps      : 10
+Temperature    : 1.5
+Length Scale   : 1.1
+Output Path    : ./output_wavs\kannada_female_003.wav

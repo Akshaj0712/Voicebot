@@ -1,0 +1,9 @@
+Language       : marathi
+Gender         : male
+Checkpoint     : ./logs/marathi.pt
+Audio Reference: ./audio_samples/marathi_reporter_001.wav
+Input Text     : ग्राहक सेवा केंद्रात कॉल--- केल्याबद्दल धन्यवाद. मी आज तुम्हाला कशी मदत करू शकतो? मला तुमची अडचण समजली आहे, आणि मी तुम्हाला मदत करण्यासाठी येथे आहे. कृपया थांबा, मी ही माहिती तपासत आहे. तुमची समस्या संबंधित विभागाकडे पाठवली आहे. झालेल्या गैरसोयीबद्दल आम्ही दिलगीर आहोत.
+Timesteps      : 10
+Temperature    : 1.5
+Length Scale   : 1.1
+Output Path    : ./output_wavs\marathi_male_003.wav
