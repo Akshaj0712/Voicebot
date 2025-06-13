@@ -1,0 +1,108 @@
+{
+  "hindi": {
+    "10": {
+      "0.0": {
+        "0.6": "hindi audio2 10 0.0 0.6",
+        "0.8": "hindi audio2 10 0.0 0.8",
+        "1.0": "hindi audio2 10 0.0 1.0",
+        "1.2": "hindi audio2 10 0.0 1.2"
+      },
+      "1.0": {
+        "0.6": "hindi audio2 10 1.0 0.6",
+        "0.8": "hindi audio2 10 1.0 0.8",
+        "1.0": "hindi audio2 10 1.0 1.0",
+        "1.2": "hindi audio2 10 1.0 1.2"
+      },
+      "2.0": {
+        "0.6": "hindi audio2 10 2.0 0.6",
+        "0.8": "hindi audio2 10 2.0 0.8",
+        "1.0": "hindi audio2 10 2.0 1.0",
+        "1.2": "hindi audio2 10 2.0 1.2"
+      },
+      "4.0": {
+        "0.6": "hindi audio2 10 4.0 0.6",
+        "0.8": "hindi audio2 10 4.0 0.8",
+        "1.0": "hindi audio2 10 4.0 1.0",
+        "1.2": "hindi audio2 10 4.0 1.2"
+      }
+    },
+    "15": {
+      "0.0": {
+        "0.6": "hindi audio2 15 0.0 0.6",
+        "0.8": "hindi audio2 15 0.0 0.8",
+        "1.0": "hindi audio2 15 0.0 1.0",
+        "1.2": "hindi audio2 15 0.0 1.2"
+      },
+      "1.0": {
+        "0.6": "hindi audio2 15 1.0 0.6",
+        "0.8": "hindi audio2 15 1.0 0.8",
+        "1.0": "hindi audio2 15 1.0 1.0",
+        "1.2": "hindi audio2 15 1.0 1.2"
+      },
+      "2.0": {
+        "0.6": "hindi audio2 15 2.0 0.6",
+        "0.8": "hindi audio2 15 2.0 0.8",
+        "1.0": "hindi audio2 15 2.0 1.0",
+        "1.2": "hindi audio2 15 2.0 1.2"
+      },
+      "4.0": {
+        "0.6": "hindi audio2 15 4.0 0.6",
+        "0.8": "hindi audio2 15 4.0 0.8",
+        "1.0": "hindi audio2 15 4.0 1.0",
+        "1.2": "hindi audio2 15 4.0 1.2"
+      }
+    },
+    "20": {
+      "0.0": {
+        "0.6": "hindi audio2 20 0.0 0.6",
+        "0.8": "hindi audio2 20 0.0 0.8",
+        "1.0": "hindi audio2 20 0.0 1.0",
+        "1.2": "hindi audio2 20 0.0 1.2"
+      },
+      "1.0": {
+        "0.6": "hindi audio2 20 1.0 0.6",
+        "0.8": "hindi audio2 20 1.0 0.8",
+        "1.0": "hindi audio2 20 1.0 1.0",
+        "1.2": "hindi audio2 20 1.0 1.2"
+      },
+      "2.0": {
+        "0.6": "hindi audio2 20 2.0 0.6",
+        "0.8": "hindi audio2 20 2.0 0.8",
+        "1.0": "hindi audio2 20 2.0 1.0",
+        "1.2": "hindi audio2 20 2.0 1.2"
+      },
+      "4.0": {
+        "0.6": "hindi audio2 20 4.0 0.6",
+        "0.8": "hindi audio2 20 4.0 0.8",
+        "1.0": "hindi audio2 20 4.0 1.0",
+        "1.2": "hindi audio2 20 4.0 1.2"
+      }
+    },
+    "40": {
+      "0.0": {
+        "0.6": "hindi audio2 40 0.0 0.6",
+        "0.8": "hindi audio2 40 0.0 0.8",
+        "1.0": "hindi audio2 40 0.0 1.0",
+        "1.2": "hindi audio2 40 0.0 1.2"
+      },
+      "1.0": {
+        "0.6": "hindi audio2 40 1.0 0.6",
+        "0.8": "hindi audio2 40 1.0 0.8",
+        "1.0": "hindi audio2 40 1.0 1.0",
+        "1.2": "hindi audio2 40 1.0 1.2"
+      },
+      "2.0": {
+        "0.6": "hindi audio2 40 2.0 0.6",
+        "0.8": "hindi audio2 40 2.0 0.8",
+        "1.0": "hindi audio2 40 2.0 1.0",
+        "1.2": "hindi audio2 40 2.0 1.2"
+      },
+      "4.0": {
+        "0.6": "hindi audio2 40 4.0 0.6",
+        "0.8": "hindi audio2 40 4.0 0.8",
+        "1.0": "hindi audio2 40 4.0 1.0",
+        "1.2": "hindi audio2 40 4.0 1.2"
+      }
+    }
+  }
+}
